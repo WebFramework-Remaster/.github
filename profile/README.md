@@ -104,11 +104,6 @@
 - ✅ **사회적 인식 개선** 및 포용적 디지털 환경 조성
 
 ---
-좋습니다! 이미지를 활용해서 더 깔끔하게 정리하겠습니다.
-
-**이미지 파일명:** `docs/core-features.png`
-
----
 
 ## ✨ 핵심 기능
 
@@ -415,4 +410,5 @@ npm run build
 [![GitHub](https://img.shields.io/badge/GitHub-WebFramework--Remaster-181717?style=flat-square&logo=github)](https://github.com/WebFramework-Remaster/Remaster)
 
 </div>
+
 
