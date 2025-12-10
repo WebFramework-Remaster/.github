@@ -114,9 +114,9 @@
 </div>
 
 **사용 방법:**
-1. 스페이스바를 길게 누르면 녹음 시작 🎙️
+1. 스페이스바를 누르면 녹음 시작 🎙️
 2. "프로그램", "활동 보조", "일자리", "공지사항", "개인 일정", "마이페이지" 중 하나를 말하기
-3. 스페이스바를 떼면 해당 페이지로 즉시 이동! ⚡
+3. 스페이스바를 다시 누르면 녹음 중지 및 페이지 이동! ⚡
 
 **기술 구현:**
 - Web Speech API (`SpeechRecognition`)를 활용한 실시간 음성 인식
@@ -410,5 +410,6 @@ npm run build
 [![GitHub](https://img.shields.io/badge/GitHub-WebFramework--Remaster-181717?style=flat-square&logo=github)](https://github.com/WebFramework-Remaster/Remaster)
 
 </div>
+
 
 
